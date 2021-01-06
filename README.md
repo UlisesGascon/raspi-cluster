@@ -10,3 +10,8 @@ Let's have some fun with a Raspi Cluster
 - Setup the Network (allowing wifi connection)
 - Provision the system using Ansible
 - Deploy Kubernetes (K3s) in the cluster
+
+## Media and more
+
+### Twitter
+- [Initial kickoff](https://twitter.com/kom_256/status/1346485230782312450)
