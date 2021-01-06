@@ -15,3 +15,8 @@ Let's have some fun with a Raspi Cluster
 
 ### Twitter
 - [Initial kickoff](https://twitter.com/kom_256/status/1346485230782312450)
+
+## Resources to learn more
+
+- [Playlist: Turing Pi Cluster by Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7Frk57NLmLheAaSSpJLLL90G)
+- [Run Kubernetes on your Raspberry Pi cluster with k3s by Will Ho](https://ikarus.sg/kubernetes-with-k3s/)
