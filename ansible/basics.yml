@@ -1,0 +1,8 @@
+---
+- hosts: raspi-cluster-*
+  become: yes
+  pre_tasks:
+    - name: Update apt repository
+      apt: update_cache=yes
+  roles:
+    - raspi-cluster

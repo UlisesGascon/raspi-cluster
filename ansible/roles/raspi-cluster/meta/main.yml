@@ -1,0 +1,6 @@
+---
+dependencies:
+  - role: darkwizard242.python3
+  - role: grzegorznowak.nvm_node
+    vars: 
+      nvm_node_version: "14.15.4"
